@@ -1,0 +1,1 @@
+# easy-openstack-installation-from-host-images
